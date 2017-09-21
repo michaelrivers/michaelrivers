@@ -18,20 +18,20 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: mike71770@yahoo.com  # Full email address, e.g. "sam@example.com"
+  email_address: mike71770@yahoo.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: michaelrivers # github profile name, e.g. "madebymunsters"
+  github: michaelrivers
   google_plus:
   instagram:
-  linkedin: https://www.linkedin.com/in/michael-rivers-9b73367/ # Full URL
+  linkedin: https://www.linkedin.com/in/michael-rivers-9b73367/
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange: https://stackexchange.com/users/11813458/mike-rivers  # Full URL
+  stack_exchange: https://stackexchange.com/users/11813458/mike-rivers
   steam:
   tumblr:
   twitter:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-106825694-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
